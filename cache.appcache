@@ -121,6 +121,7 @@ payloads/kstuff-lite/metadata.json #bd01ccce96c8bf8f264f0158430ea1c01b6662344ff3
 payloads/kstuff-lite/1.2-dr-test2/kstuff.elf #2b699d411079a21dba7c39a02993fc0fb21e52f434103e884a0c892fafe56b75
 payloads/klogsrv/metadata.json #b3cecceb5b73d6a602d4e903f79201c4d643fc67a07b9b7992b039133d52a841
 payloads/klogsrv/0.8/klogsrv-ps5.elf #f6eb1b415ecf3340b89a56a0cb04ba5c714430085851ada13a98012b63a5a4cf
+payloads/kstuff-lite-echostretch/metadata.json #a01c97cc2a14d1253a1da9304dba32af1a65a3c3f8098f628bc01818ddfb6f70
 payloads/kstuff-lite-echostretch/v1.09/kstuff.elf #ec5212794dc6e44ee8e70fd0549abec6d3dac8c3e03ddbeafd9f869ffe97d4e8
 
 NETWORK:
